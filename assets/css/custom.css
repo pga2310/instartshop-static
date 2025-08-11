@@ -59,24 +59,25 @@
 		}
 
 		/* Styles for the centered logo (desktop only) */
-		.navbar-brand {
+		.navbar-brand img{
 			
 			transform: translateX(-50%);
 			z-index: 10;
 			/* Ensure it's above other content if they overlap */
-			height: 60px;
+			/*height: 60px;*/
 			/* Match navbar height */
 			display: flex;
 			align-items: center;
 			padding: 0;
-		}
-
-		.navbar-brand img {
 			max-height: 100%;
 			/* Make image fit within its container */
 			width: auto;
 			/* Maintain aspect ratio */
 			display: block;
+		}
+
+		.navbar-brand img {
+			
 		}
 
 		.nav-link {
