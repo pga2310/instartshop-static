@@ -159,7 +159,7 @@
 
 
 		.hero-section {
-			background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://storage.googleapis.com/instartshop/assets/img/hero-banner/instartshop.png') no-repeat center center;
+			background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://pga2310.github.io/instartshop-static/assets/img/hero-banner/instartshop.png') no-repeat center center;
 			background-size: cover;
 			min-height: 700px;
 			display: flex;
