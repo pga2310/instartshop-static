@@ -76,10 +76,6 @@
 			display: block;
 		}
 
-		.navbar-brand img {
-			
-		}
-
 		.nav-link {
 			font-weight: 500;
 			color: var(--text-primary-dark) !important;
