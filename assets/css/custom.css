@@ -144,6 +144,8 @@
 
 		.navbar-dark .navbar-nav .nav-link {
 			color: var(--text-primary-dark) !important;
+			pedding-right:15px;
+			pedding-left:15px;
 			/* Dark text on light background */
 		}
 
